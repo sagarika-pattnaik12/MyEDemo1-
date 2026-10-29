@@ -1,5 +1,5 @@
 //Sum of array elements
-
+//Made for github
 #include <stdio.h>
 void sum(int *a, int n);
 void main(){
