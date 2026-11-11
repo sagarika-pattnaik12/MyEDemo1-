@@ -4,7 +4,7 @@
 void sum(int *a, int n);
 void main(){
 int n,arr[100],i;
-printf("Helloooo\n");
+printf("Helloo\n");
 
 printf("Enter size of the array: ");
 scanf("%d", &n);
